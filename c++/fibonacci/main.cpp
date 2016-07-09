@@ -15,7 +15,7 @@ main()
  
    cout << "First " << n << " terms of Fibonacci series are :- " << endl;
 
-   cout << fibonacci()
+   fibonacci()
   
    return 0;
 }
